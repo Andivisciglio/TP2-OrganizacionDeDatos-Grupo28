@@ -1,6 +1,15 @@
 # TP2-OrganizacionDeDatos-Grupo28
 
-Requisitos para la entrega del TP2:
+# Cosas a tener en cuenta y para hacer
+
+  - Averiguar significado de postulantes
+  - Mergear postulantes_edu y postulantes_gye
+  - Ver el tema de vistas y postulaciones: si vio o no el aviso puede ser un feature importante
+  - Arreglar el notebook un poquito
+  - Ver el tema de feature relacionado con la empresa del aviso.
+  - Despues de cambiar a numerica la categoria de los features, listar la relacion de numero y categoria. Ej: 5 ---- Ventas
+  
+# Requisitos para la entrega del TP2:
 
 El TP debe programarse en Python o R.
 Debe entregarse una carpeta con el informe de algoritmos probados, algoritmo final utilizado, transformaciones realizadas a los datos, feature engineering, etc. 
@@ -12,3 +21,4 @@ Cantidad de trabajo (esfuerzo) del grupo: ¿Probaron muchos algoritmos? ¿Hicier
 Resultado obtenido en Kaggle (obviamente cuanto mejor resultado mejor nota)
 Presentación final del informe, calidad de la redacción, uso de información obtenida en el TP1, conclusiones presentadas.
 Performance de la solución final.
+  
