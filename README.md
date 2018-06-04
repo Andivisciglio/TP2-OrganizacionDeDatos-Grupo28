@@ -6,6 +6,7 @@
   - Ver el tema de vistas y postulaciones: si vio o no el aviso puede ser un feature importante
   - Ver el tema de feature relacionado con la empresa del aviso (ranking) lo mismo para los grupos de edades.
   - Despues de cambiar a numerica la categoria de los features, listar la relacion de numero y categoria. Ej: 5 ---- Ventas
+  - Ver pagina de ensambles (documentacion de sklearn) Link: http://scikit-learn.org/stable/modules/ensemble.html
   
 # Requisitos para la entrega del TP2:
 
