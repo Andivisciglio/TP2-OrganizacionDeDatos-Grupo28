@@ -2,11 +2,9 @@
 
 # Cosas a tener en cuenta y para hacer
 
-  - Averiguar significado de postulantes
-  - Mergear postulantes_edu y postulantes_gye
+  -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
   - Ver el tema de vistas y postulaciones: si vio o no el aviso puede ser un feature importante
-  - Arreglar el notebook un poquito
-  - Ver el tema de feature relacionado con la empresa del aviso.
+  - Ver el tema de feature relacionado con la empresa del aviso (ranking) lo mismo para los grupos de edades.
   - Despues de cambiar a numerica la categoria de los features, listar la relacion de numero y categoria. Ej: 5 ---- Ventas
   
 # Requisitos para la entrega del TP2:
