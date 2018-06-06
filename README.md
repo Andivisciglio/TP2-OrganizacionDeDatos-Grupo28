@@ -3,16 +3,15 @@
 # Cosas a tener en cuenta y para hacer
 
   Features:
-    -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
-    - Ver el tema de feature relacionado con la empresa del aviso (ranking). (Agos y Fede)
-    - Grupos de edades como feature. (Agos y Fede)
-    - Usar palabras clave de las descripciones de los avisos. (Andi y Lucho)
-    - Agregar vista del aviso como feature. (Andi y Lucho) 
-    - Despues de cambiar a numerica la categoria de los features, listar la relacion de numero y categoria. Ej: 5 ---- Ventas
+  -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
+  - Ver el tema de feature relacionado con la empresa del aviso (ranking). (Agos y Fede)
+  - Grupos de edades como feature. (Agos y Fede)
+  - Usar palabras clave de las descripciones de los avisos. (Andi y Lucho)
+  - Agregar vista del aviso como feature. (Andi y Lucho) 
+  - Despues de cambiar a numerica la categoria de los features, listar la relacion de numero y categoria. Ej: 5 ---- Ventas
   
   Pruebas de algoritmos:
-  
-    - Ver pagina de ensambles (documentacion de sklearn) Link: http://scikit-learn.org/stable/modules/ensemble.html
+  - Ver pagina de ensambles (documentacion de sklearn) Link: http://scikit-learn.org/stable/modules/ensemble.html
   
 # Requisitos para la entrega del TP2:
 
