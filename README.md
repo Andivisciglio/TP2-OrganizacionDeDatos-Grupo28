@@ -5,7 +5,6 @@
   Preguntas:
   - Como se puede manejar el tema de la educacion? ¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes? 
   -Agregar como features a las palabras mas importantes (con mas postulaciones por aviso) y si aparecen en la descripcion del aviso o no
-  -
 
   Features:
   -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
