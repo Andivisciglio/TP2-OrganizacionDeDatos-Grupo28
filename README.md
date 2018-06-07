@@ -7,7 +7,6 @@
   - Agregar como features a las palabras mas importantes (con mas postulaciones por aviso) y si aparecen en la descripcion del aviso o no
 
   Features:
-  -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
   - Ver el tema de feature relacionado con la empresa del aviso (ranking). (Agos y Fede)
   - Grupos de edades como feature. (Agos y Fede)
   - Usar palabras clave de las descripciones de los avisos. (Andi y Lucho)
