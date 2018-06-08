@@ -2,6 +2,23 @@
 
 # Cosas a tener en cuenta y para hacer
 
+  
+-Palabras mas recurrentes como features
+
+- Hacer matriz de no postulantes con las vistas que no terminaron siendo postulaciones
+
+- que hago o que valor le doy a la informacion incompleta sobre la educacion.
+
+-limitar la cantidad de arboles en Bagging.
+
+-  No postulaciones esta bien hecho?
+
+- Utilizar avisos online contra avisos detalle.
+
+- Analizar el archivo de vistas.
+
+-preguntar que hago con avisos online
+
   -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
   - Ver el tema de vistas y postulaciones: si vio o no el aviso puede ser un feature importante
   - Ver el tema de feature relacionado con la empresa del aviso (ranking) lo mismo para los grupos de edades.
