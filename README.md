@@ -1,6 +1,10 @@
 # TP2-OrganizacionDeDatos-Grupo28
 
 # Cosas a tener en cuenta y para hacer
+  
+  Preguntas:
+  - Como se puede manejar el tema de la educacion? ¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
+  - Agregar como features a las palabras mas importantes (con mas postulaciones por aviso) y si aparecen en la descripcion del aviso o no
 
   
 -Palabras mas recurrentes como features
@@ -22,7 +26,14 @@
   -¿Esta bien agregar una variable NO_DECLARA a la informacion faltante de los postulantes?
   - Ver el tema de vistas y postulaciones: si vio o no el aviso puede ser un feature importante
   - Ver el tema de feature relacionado con la empresa del aviso (ranking) lo mismo para los grupos de edades.
-  - Despues de cambiar a numerica la categoria de los features, listar la relacion de numero y categoria. Ej: 5 ---- Ventas
+
+  Features:
+  - Ver el tema de feature relacionado con la empresa del aviso (ranking). (Agos y Fede)
+  - Grupos de edades como feature. (Agos y Fede)
+  - Usar palabras clave de las descripciones de los avisos. (Andi y Lucho)
+  - Agregar vista del aviso como feature. (Andi y Lucho) 
+  
+  Pruebas de algoritmos:
   - Ver pagina de ensambles (documentacion de sklearn) Link: http://scikit-learn.org/stable/modules/ensemble.html
   
 # Requisitos para la entrega del TP2:
